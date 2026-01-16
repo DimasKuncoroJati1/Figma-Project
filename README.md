@@ -1,7 +1,9 @@
 # Figma-Project
-Example Mockup Prototype
+Example Mockup Prototype UI UX Design
 
 Title : future technology 
-theme : clean design, future, blue grid, inspired by tron
+
+theme : clean design, modern minimalist, future, blue grid, inspired by tron
+
 
 dm for collaborate with me 
